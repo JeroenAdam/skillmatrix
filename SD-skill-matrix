@@ -19,34 +19,34 @@
 4. Can describe the building blocks/processes that make up the standard workstation and can locate its technical documentation
 4.1 Can describe the standard workstation its hardware standards
 4.2 Can describe the standard workstation pre-installed software
-4.3 Can describe most relevant customizations specific to the standard Windows build
+4.3 Can describe most relevant customizations specific to the standard OS build
 4.4 Can locate up-to-date technical documentation related to the standard workstation
-4.5 Can locate a list of the standard workstation optional software
-4.6 Understands the design process of a new standard workstation
-5. Can describe all stages of a workstation, laptop, mobile device and printer delivery
-5.1 Understands the build process of a new standard workstation
-5.2 Can describe the flow of a new standard workstation preparation and delivery
+4.5 Can locate a list of optional (standardized) software
+4.6 Understands the design process of a standard workstation
+5. Can describe all stages of a workstation/laptop, mobile device and printer delivery
+5.1 Understands the build process of a standard workstation
+5.2 Can describe the flow of a standard workstation preparation and delivery
 5.3 Can describe the flow of a mobile device delivery
 5.4 Can describe the process of a new MFP printer implementation
 5.4 Can describe the flow of a MFP printer delivery
-6. Can locate technical documentation relevant to the most critical business apps
-6.1 Can name the most critical business apps
-6.2 Can name 4 potential locations containing technical documentation related to critical business apps
+6. Can locate technical documentation relevant to the most critical business applications
+6.1 Can name the most critical business applications
+6.2 Can locate technical documentation related to critical business applications
 7. Can independently search for relevant information/procedures
 7.1 Can describe how to consult the IT department document repository
-7.2 Understands that information is to be actively gathered and in a correct manner
-7.3 Understands that SPOC is available to assist in case needed
+7.2 Understands that information is to be actively gathered and in an accurate manner
+7.3 Understands that the SPOC is available to assist in case needed
 8. Adequately applies procedures
 8.1 Takes the correct action handling P1 & P2 escalations/reassignments
 8.2 Takes the correct action handling critical business applications (incl. categorization)
 8.3 Applies VIP process
-8.4 Detects VIP mails in inbox for quick treatment
-8.5 Takes the correct action when a user/manager informs about the status/urgency of an incident
+8.4 Quickly detects VIP mails in the mailbox for immediate treatment
+8.5 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
 8.6 Encodes incidents correctly (incl. categorization)
-8.7 Calls the user back to know the outcome of a restart or test
+8.7 Calls the end-user back to get the outcome of a reboot or test
 8.8 Applies the user unreachable process
-9. Understands the ITIL concepts incident and request and can give examples where the company deviates from the standard
-9.1 Notices the difference between an incident and a request and provides advice accordingly
+9. Understands the ITIL concepts incident and request and can specify where the company deviates from the standard
+9.1 Notices the difference between an incident and a request and advises accordingly
 9.2 Handles software installation requests correctly
 9.3 Understands the company its definition of consumables
 9.4 Understands which type of requests are encoded by his/her team
@@ -60,33 +60,33 @@
 11.2 Gathers end-user availability information (for incident escalations)
 12. Adequately troubleshoots, diagnoses and formulates technical issues
 12.1 Adequately diagnoses the incident asking the right questions
-12.2 Adequately applies solutions as described in wiki
+12.2 Adequately applies solutions as described in the knowledge base
 12.3 Applies the correct procedure to obtain help troubleshooting before escalating to another team
 12.4 Properly translates the call with an acceptable level of technical detail
 13. Understands that every action needs to be traceable in the ticketing tool
-13.1 Swiftly and accurately encodes all calls
+13.1 Swiftly and accurately encodes calls
 13.2 Encodes selecting the accurate category related to the impacted or enquired service
 13.3 Ensures the other teams receive the maximum of information by encoding accordingly
 14. Reads and answers his/her internal e-mails
 14.1 Reads his/her internal e-mails (to be aware about ongoing incidents/interventions)
-14.2 Answers his/her e-mails (so that information is at hand where needed)
+14.2 Answers his/her e-mails (so that information gets where it is needed)
 15. Communicates and collaborates within the team
 15.1 Informs his/her team about high impact incidents
 15.2 Respects the mail handling process
-15.3 Shares tips and tricks using wiki
-16. Understands the targeting methods used to deploy standardized apps
-16.1 Can describe all the targeting methods used to deploy standardized apps
-16.2 Understands all the targeting methods used to deploy standardized apps (conceptually)
-17. Adequately troubleshoots the tools used to deploy standardized apps
+15.3 Shares tips and tricks using the knowledge base
+16. Understands the targeting methods used to deploy standardized applications
+16.1 Can describe all the targeting methods used to deploy standardized applications
+16.2 Understands all the targeting methods used to deploy standardized applications (conceptually)
+17. Adequately troubleshoots the tools used to deploy standardized applications
 17.1 Adequately troubleshoots SCCM client issues
 17.2 Adequately troubleshoots Jetro client issues
-17.3 Adequately handles failed software deployments (standardized apps)
-18. Understands the targeting methods used to install non-standardized apps
-18.1 Can describe all the targeting methods used to deploy non-standardized apps
-18.2 Understands all the targeting methods used to deploy non-standardized apps (conceptually)
-19. Adequately troubleshoots the tools used to install non-standardized apps
+17.3 Adequately handles failed software deployments (standardized applications)
+18. Understands the targeting methods used to install non-standardized applications
+18.1 Can describe all the targeting methods used to deploy non-standardized applications
+18.2 Understands all the targeting methods used to deploy non-standardized applications (conceptually)
+19. Adequately troubleshoots the tools used to install non-standardized applications
 19.1 Adequately troubleshoots LAR account issues
-19.2 Adequately handles failed software deployments (non-standardized apps)
+19.2 Adequately handles failed software deployments (non-standardized applications)
 20. Adequately troubleshoots all types of remote access system issues
 20.1 Can describe the client checks required for RAS connectivity (standard workstation)
 20.2 Adequately troubleshoots RAS issues

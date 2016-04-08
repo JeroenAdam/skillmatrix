@@ -7,10 +7,10 @@
 1.4 Communicates properly with other teams
 1.5 Alerts the concerned team when (re)assigning incidents in case of urgency
 2. Proactively learns new technical skills when the opportunity arises
-2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the need is there)
+2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the immediate need is there)
 2.2 Learns when there is no impact on SLA's
 2.3 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
-3. Can describe our service offering
+3. Can describe the IS service offering
 3.1 Understands all articles related to Workplace
 3.2 Understands all articles related to Access
 3.3 Understands all articles related to Filesharing
@@ -49,13 +49,12 @@
 9.1 Notices the difference between an incident and a request and provides advice accordingly
 9.2 Handles software installation requests correctly
 9.3 Understands BESBE's definition of consumables
-9.4 Understands which type of requests are encoded by our team
+9.4 Understands which type of requests are encoded by his/her team
 10. Understands his/her mission as an SD operator and acts accordingly
 10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
 10.2 Minds the SLA's at all time
-10.3 Swiftly and correctly encodes the calls
-10.4 Minds our priorities at all time: calls, mails, backlog, improve
-10.5 Minds the KPI's at all time
+10.3 Minds his/her priorities at all time: calls, mails, backlog, improve
+10.4 Minds the KPI's at all time
 11. Adequately gathers contextual information
 11.1 Gathers details about the incident impact from the viewpoint of the end-user (for incident escalations)
 11.2 Gathers end-user availability information (for incident escalations)
@@ -65,16 +64,16 @@
 12.3 Applies the correct procedure to obtain help troubleshooting before escalating to another team
 12.4 Properly translates the call with an acceptable level of technical detail
 13. Understands that every action needs to be traceable in the ticketing tool
-13.1 Ensures the other teams receive the maximum of information by encoding accordingly
-13.2 Encodes VIP escalations with 'first contact' on 'yes'
-13.3 Encodes selecting the correct category related to the impacted or enquired service
+13.1 Swiftly and accurately encodes all calls
+13.2 Encodes selecting the accurate category related to the impacted or enquired service
+13.3 Ensures the other teams receive the maximum of information by encoding accordingly
 14. Reads and answers his/her internal e-mails
-14.1 Reads his/her internal e-mails to be aware about ongoing incidents/interventions
-14.2 Answers his/her e-mails so that information is at hand where needed
+14.1 Reads his/her internal e-mails (to be aware about ongoing incidents/interventions)
+14.2 Answers his/her e-mails (so that information is at hand where needed)
 15. Communicates and collaborates within the team
-15.1 Inform the team about high impact incidents
-15.2 Respect the mail handling process
-15.3 Share tips and tricks using wiki
+15.1 Informs his/her team about high impact incidents
+15.2 Respects the mail handling process
+15.3 Shares tips and tricks using wiki
 16. Understands the targeting methods used to deploy standardized apps
 16.1 Can describe all the targeting methods used to deploy standardized apps
 16.2 Understands all the targeting methods used to deploy standardized apps (conceptually)

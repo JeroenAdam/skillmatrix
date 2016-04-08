@@ -1,24 +1,21 @@
 # SD Skill Matrix
 
 1. Has a positive attitude towards the enduser, colleagues and the other teams
- 1.1 Communicates properly with the end-user (oral)
- 1.2 Communicates properly with the end-user (written)
- 1.3 Communicates properly within the team
- 1.4 Communicates properly with other teams
- 1.5 Alerts the concerned team when (re)assigning incidents in case of urgency
-
+1.1 Communicates properly with the end-user (oral)
+1.2 Communicates properly with the end-user (written)
+1.3 Communicates properly within the team
+1.4 Communicates properly with other teams
+1.5 Alerts the concerned team when (re)assigning incidents in case of urgency
 2. Proactively learns new technical skills when the opportunity arises
 2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the need is there)
 2.2 Learns when there is no impact on SLA's
 2.3 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
-
 3. Can describe our service offering
 3.1 Understands all articles related to Workplace
 3.2 Understands all articles related to Access
 3.3 Understands all articles related to Filesharing
 3.4 Understands all articles related to Software
 3.5 Understands all articles related to Servers
-
 4. Can describe the building blocks/processes that make up the BESBE workstation and can locate its technical documentation
 4.1 Can describe BESBE workstation hardware standards
 4.2 Can describe BESBE workstation pre-installed software

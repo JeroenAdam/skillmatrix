@@ -10,22 +10,22 @@
 2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the immediate need is there)
 2.2 Learns when there is no impact on SLA's
 2.3 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
-3. Can describe the IS service offering
+3. Can describe the IT service offering
 3.1 Understands all articles related to Workplace
 3.2 Understands all articles related to Access
 3.3 Understands all articles related to Filesharing
 3.4 Understands all articles related to Software
 3.5 Understands all articles related to Servers
-4. Can describe the building blocks/processes that make up the BESBE workstation and can locate its technical documentation
-4.1 Can describe BESBE workstation hardware standards
-4.2 Can describe BESBE workstation pre-installed software
-4.3 Can describe most relevant customizations specific to BESBE Windows 7 build
-4.4 Can locate up-to-date technical documentation related to BESBE workstation
-4.5 Can locate a list of BESBE workstation optional software
-4.6 Understands the design process of a new BESBE workstation
+4. Can describe the building blocks/processes that make up the standard workstation and can locate its technical documentation
+4.1 Can describe the standard workstation its hardware standards
+4.2 Can describe the standard workstation pre-installed software
+4.3 Can describe most relevant customizations specific to the standard Windows build
+4.4 Can locate up-to-date technical documentation related to the standard workstation
+4.5 Can locate a list of the standard workstation optional software
+4.6 Understands the design process of a new standard workstation
 5. Can describe all stages of a workstation, laptop, mobile device and printer delivery
-5.1 Understands the build process of a new BESBE workstation
-5.2 Can describe the flow of a new BESBE workstation preparation and delivery
+5.1 Understands the build process of a new standard workstation
+5.2 Can describe the flow of a new standard workstation preparation and delivery
 5.3 Can describe the flow of a mobile device delivery
 5.4 Can describe the process of a new MFP printer implementation
 5.4 Can describe the flow of a MFP printer delivery
@@ -33,7 +33,7 @@
 6.1 Can name the most critical business apps
 6.2 Can name 4 potential locations containing technical documentation related to critical business apps
 7. Can independently search for relevant information/procedures
-7.1 Can describe how to consult the IS department document repository
+7.1 Can describe how to consult the IT department document repository
 7.2 Understands that information is to be actively gathered and in a correct manner
 7.3 Understands that SPOC is available to assist in case needed
 8. Adequately applies procedures
@@ -45,10 +45,10 @@
 8.6 Encodes incidents correctly (incl. categorization)
 8.7 Calls the user back to know the outcome of a restart or test
 8.8 Applies the user unreachable process
-9. Understands the ITIL concepts incident and request and can give examples where BESBE deviates from the standard
+9. Understands the ITIL concepts incident and request and can give examples where the company deviates from the standard
 9.1 Notices the difference between an incident and a request and provides advice accordingly
 9.2 Handles software installation requests correctly
-9.3 Understands BESBE's definition of consumables
+9.3 Understands the company its definition of consumables
 9.4 Understands which type of requests are encoded by his/her team
 10. Understands his/her mission as an SD operator and acts accordingly
 10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
@@ -88,6 +88,5 @@
 19.1 Adequately troubleshoots LAR account issues
 19.2 Adequately handles failed software deployments (non-standardized apps)
 20. Adequately troubleshoots all types of remote access system issues
-20.1 Can describe the 4 client checks for RAS Office
-20.2 Adequately troubleshoots RAS Webmail, RAS Office
-20.3 Adequately troubleshoots RAS 3rd party, RAS TS
+20.1 Can describe the client checks required for RAS connectivity (standard workstation)
+20.2 Adequately troubleshoots RAS issues

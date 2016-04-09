@@ -79,7 +79,7 @@
 16.2 Understands all the targeting methods used to deploy standardized applications (conceptually)
 17. Adequately troubleshoots the tools used to deploy standardized applications
 17.1 Adequately troubleshoots SCCM client issues
-17.2 Adequately troubleshoots Jetro client issues
+17.2 Adequately troubleshoots RDP/Citrix/Jetro connectivity issues
 17.3 Adequately handles failed software deployments (standardized applications)
 18. Understands the targeting methods used to install non-standardized applications
 18.1 Can describe all the targeting methods used to deploy non-standardized applications

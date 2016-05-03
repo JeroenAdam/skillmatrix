@@ -9,7 +9,8 @@
 2. Proactively learns new technical skills when the opportunity arises
 2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the immediate need is there)
 2.2 Learns when there is no impact on SLA's
-2.3 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
+2.3 Aims at mastering business productivity software (MS Office, MS SharePoint)
+2.4 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
 3. Can describe the IT service offering
 3.1 Understands all articles related to workplace
 3.2 Understands all articles related to access
@@ -37,14 +38,15 @@
 7.2 Understands that information is to be actively gathered and in an accurate manner
 7.3 Understands that the SPOC is available to assist in case needed
 8. Adequately applies procedures
-8.1 Takes the correct action handling P1 & P2 escalations/reassignments/updates
-8.2 Takes the correct action handling critical business applications (incl. categorization)
-8.3 Applies VIP process
-8.4 Quickly detects VIP mails in the mailbox for immediate treatment
-8.5 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
-8.6 Encodes incidents correctly (incl. categorization)
-8.7 Calls the end-user back to get the outcome of a reboot or test
-8.8 Applies the user unreachable process
+8.1 In case of major service interruptions, immediately follows the major incident procedure
+8.2 Takes the correct action handling P1 & P2 escalations/reassignments/updates
+8.3 Takes the correct action handling critical business applications (incl. categorization)
+8.4 Applies VIP process
+8.5 Quickly detects VIP mails in the mailbox for immediate treatment
+8.6 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
+8.7 Encodes incidents correctly (incl. categorization)
+8.8 Calls the end-user back to get the outcome of a reboot or test
+8.9 Applies the user unreachable process
 9. Understands the ITIL concepts incident and request and can specify where the company deviates from the standard
 9.1 Notices the difference between an incident and a request and acts accordingly
 9.2 Handles software installation requests correctly

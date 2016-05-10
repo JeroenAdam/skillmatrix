@@ -54,9 +54,10 @@
 10. Understands his/her mission as an SD operator and acts accordingly
 10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
 10.2 Minds the SLA's at all time and acts accordingly
-10.3 Alerts his/her team leader in case of abnormalities which are negatively impacting the SLA's
-10.4 Minds his/her priorities at all time: calls, mails, backlog, improve
-10.5 Minds the KPI's at all time
+10.3 Properly monitors the call queue and the mailbox
+10.4 Alerts his/her team leader in case of abnormalities which are negatively impacting the SLA's
+10.5 Minds his/her priorities at all time: calls, mails, backlog, improve
+10.6 Minds his/her KPI's at all time
 11. Adequately gathers contextual information
 11.1 Gathers details about incident impact from the viewpoint of the end-user (for incident escalations)
 11.2 Gathers end-user availability information (for incident escalations)

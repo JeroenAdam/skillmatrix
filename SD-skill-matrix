@@ -47,11 +47,12 @@
 8.8 Encodes incidents correctly (incl. categorization)
 8.9 Calls the end-user back to get the outcome of a reboot or test
 8.10 Applies the user unreachable process
-9. Understands the ITIL concepts incident and request and can specify where the company deviates from the standard
+9. Understands the ITIL concepts incident, request, SPOC and can specify where the company deviates from the standard
 9.1 Notices the difference between an incident and a request and acts accordingly
 9.2 Handles software installation requests correctly
 9.3 Understands the company its definition of consumables
 9.4 Understands which type of requests are encoded by his/her team
+9.5 Understands Service Desk acts as a SPOC for all IT related matters
 10. Understands his/her mission as an SD operator and acts accordingly
 10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
 10.2 Minds the SLA's at all time and acts accordingly

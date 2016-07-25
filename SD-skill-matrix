@@ -42,7 +42,7 @@
 8.3 Takes the correct action handling P1 & P2 escalations/reassignments/updates
 8.4 Takes the correct action handling critical business application escalations/reassignments/updates (incl. categorization)
 8.5 Applies VIP process
-8.6 Quickly detects VIP mails in the mailbox for immediate treatment
+8.6 Quickly detects VIP incidents in the mailbox/queue for immediate treatment
 8.7 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
 8.8 Encodes incidents correctly (incl. categorization)
 8.9 Calls the end-user back to get the outcome of a reboot or test

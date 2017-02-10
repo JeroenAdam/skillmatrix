@@ -1,5 +1,4 @@
-The SD Skill Matrix document is intended for Service Desk operators.
-The intention is to help them develop their skillset managing IT environments.
+The SD Skill Matrix document is a tool intended for Service Desk operators to help them develop their skillset managing large IT environments.
 
 This repository contains the effort developing a Service Desk skill matrix for an unnamed client.
 

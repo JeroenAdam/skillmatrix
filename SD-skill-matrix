@@ -41,12 +41,13 @@
 8.2 Takes the correct action handling security related incidents
 8.3 Takes the correct action handling P1 & P2 escalations/reassignments/updates
 8.4 Takes the correct action handling critical business application escalations/reassignments/updates (incl. categorization)
-8.5 Applies VIP process
-8.6 Quickly detects VIP incidents in the mailbox/queue for immediate treatment8.7 Applies the PC failure process
-8.7 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
-8.8 Encodes incidents correctly (incl. categorization)
-8.9 Calls the end-user back to get the outcome of a reboot or test
-8.10 Applies the user unreachable process
+8.5 Applies the VIP process
+8.6 Quickly detects VIP incidents in the mailbox/queue for immediate treatment
+8.7 Applies the PC failure process
+8.8 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
+8.9 Encodes incidents correctly (incl. categorization)
+8.10 Calls the end-user back to get the outcome of a reboot or test
+8.11 Applies the user unreachable process
 9. Understands the ITIL concepts incident, request, SPOC and can specify where the company deviates from the standard
 9.1 Notices the difference between an incident and a request and acts accordingly
 9.2 Handles software installation requests correctly
@@ -69,7 +70,7 @@
 12.3 Applies the correct procedure to obtain help troubleshooting before escalating to another team
 12.4 Properly translates the call with an acceptable level of technical detail
 13. Swiftly and accurately encodes his/her actions
-13.1 Understands that every action needs to be traceable in the ticketing tool in realtime
+13.1 Understands that every action needs to be traceable in the ticketing tool in real-time
 13.2 Ensures the other teams receive the maximum of information by encoding accordingly
 14. Reads and answers his/her internal e-mails
 14.1 Reads his/her internal e-mails (to be aware about ongoing incidents and planned interventions)
@@ -83,8 +84,8 @@
 16.2 Understands all the targeting methods used to deploy standardized applications (conceptually)
 17. Adequately troubleshoots the tools used to deploy standardized applications
 17.1 Adequately troubleshoots SCCM client issues
-17.2 Adequately troubleshoots RDP/Citrix/Jetro connectivity issues
-17.3 Adequately handles failed software deployments (standardized applications)
+17.2 Adequately troubleshoots RDP/Citrix connectivity issues
+17.3 Adequately handles failed workstation deployments
 18. Understands the targeting methods used to install non-standardized applications
 18.1 Can describe all the targeting methods used to deploy non-standardized applications
 18.2 Understands all the targeting methods used to deploy non-standardized applications (conceptually)
@@ -94,3 +95,4 @@
 20. Adequately troubleshoots all types of remote access system issues
 20.1 Can describe the client checks required for RAS connectivity (standard workstation)
 20.2 Adequately troubleshoots RAS issues
+20.3 Adequately troubleshoots RAS 3rd-party issues

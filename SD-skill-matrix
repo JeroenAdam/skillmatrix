@@ -1,98 +1,98 @@
 1. Has a positive attitude towards the end-user, colleagues and the other teams
-1.1 Communicates properly with the end-user (verbally) and considers the relevant information at his/her disposal
-1.2 Communicates properly with the end-user (in written) and considers the relevant information at his/her disposal
-1.3 Communicates properly within the team
-1.4 Communicates properly with other teams
-1.5 Alerts the concerned team when (re)assigning incidents in case of urgency
+► 1.1 Communicates properly with the end-user (verbally) and considers the relevant information at his/her disposal
+► 1.2 Communicates properly with the end-user (in written) and considers the relevant information at his/her disposal
+► 1.3 Communicates properly within the team
+► 1.4 Communicates properly with other teams
+► 1.5 Alerts the concerned team when (re)assigning incidents in case of urgency
 2. Proactively learns new technical skills when the opportunity arises
-2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the immediate need is there)
-2.2 Is doing efforts to become knowledgeable about the systems within the IT environment 
-2.3 Aims at mastering business productivity software (MS Office, MS SharePoint)
-2.4 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
+► 2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the immediate need is there)
+► 2.2 Is doing efforts to become knowledgeable about the systems within the IT environment 
+► 2.3 Aims at mastering business productivity software (MS Office, MS SharePoint)
+► 2.4 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
 3. Can describe the IT service offering
-3.1 Understands all articles related to workplace
-3.2 Understands all articles related to access
-3.3 Understands all articles related to file shari
-3.4 Understands all articles related to software
-3.5 Understands all articles related to servers
+► 3.1 Understands all articles related to workplace
+► 3.2 Understands all articles related to access
+► 3.3 Understands all articles related to file sharing
+► 3.4 Understands all articles related to software
+► 3.5 Understands all articles related to servers
 4. Can describe the building blocks/processes that make up the standard workstation and can locate its technical documentation
-4.1 Can describe the laptop/workstation hardware standards
-4.2 Can describe the standard workstation its pre-installed software
-4.3 Can describe most relevant customizations specific to the standard OS build
-4.4 Can locate up-to-date technical documentation related to the standard workstation
-4.5 Can locate a list of optional (standardized) software
-4.6 Understands the design process of a standard workstation
+► 4.1 Can describe the laptop/workstation hardware standards
+► 4.2 Can describe the standard workstation its pre-installed software
+► 4.3 Can describe most relevant customizations specific to the standard OS build
+► 4.4 Can locate up-to-date technical documentation related to the standard workstation
+► 4.5 Can locate a list of optional (standardized) software
+► 4.6 Understands the design process of a standard workstation
 5. Can describe all stages of a laptop/workstation, mobile device and printer delivery
-5.1 Understands the build process of a standard workstation
-5.2 Can describe the flow of a standard workstation preparation and delivery
-5.3 Can describe the flow of a mobile device delivery
-5.4 Can describe the flow of a MFP printer delivery
-5.5 Can describe the process of a new MFP printer implementation
+► 5.1 Understands the build process of a standard workstation
+► 5.2 Can describe the flow of a standard workstation preparation and delivery
+► 5.3 Can describe the flow of a mobile device delivery
+► 5.4 Can describe the flow of a MFP printer delivery
+► 5.5 Can describe the process of a new MFP printer implementation
 6. Can locate technical documentation relevant to the most critical business applications
-6.1 Can name the most critical business applications
-6.2 Can locate technical documentation related to critical business applications
-6.3 Can describe the common used 4-tier deployment architectures
+► 6.1 Can name the most critical business applications
+► 6.2 Can locate technical documentation related to critical business applications
+► 6.3 Can describe the common used 4-tier deployment architectures
 7. Can independently search for relevant information/procedures
-7.1 Can describe how to consult the IT department document repository
-7.2 Understands that information is to be actively gathered and in an accurate manner
-7.3 Understands that the SPOC is available to assist in case needed
+► 7.1 Can describe how to consult the IT department document repository
+► 7.2 Understands that information is to be actively gathered and in an accurate manner
+► 7.3 Understands that the SPOC is available to assist in case needed
 8. Adequately applies procedures
-8.1 In case of major service interruptions, immediately follows the major incident procedure
-8.2 Takes the correct action handling security related incidents
-8.3 Takes the correct action handling P1 & P2 escalations/reassignments/updates
-8.4 Takes the correct action handling critical business application escalations/reassignments/updates (incl. categorization)
-8.5 Applies the VIP process
-8.6 Quickly detects VIP incidents in the mailbox/queue for immediate treatment
-8.7 Applies the PC failure process
-8.8 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
-8.9 Encodes incidents correctly (incl. categorization)
-8.10 Calls the end-user back to get the outcome of a reboot or test
-8.11 Applies the user unreachable process
+► 8.1 In case of major service interruptions, immediately follows the major incident procedure
+► 8.2 Takes the correct action handling security related incidents
+► 8.3 Takes the correct action handling P1 & P2 escalations/reassignments/updates
+► 8.4 Takes the correct action handling critical business application escalations/reassignments/updates (incl. categorization)
+► 8.5 Applies the VIP process
+► 8.6 Quickly detects VIP incidents in the mailbox/queue for immediate treatment
+► 8.7 Applies the PC failure process
+► 8.8 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
+► 8.9 Encodes incidents correctly (incl. categorization)
+► 8.10 Calls the end-user back to get the outcome of a reboot or test
+► 8.11 Applies the user unreachable process
 9. Understands the ITIL concepts incident, request, SPOC and can specify where the company deviates from the standard
-9.1 Notices the difference between an incident and a request and acts accordingly
-9.2 Handles software installation requests correctly
-9.3 Understands the company its definition of consumables
-9.4 Understands which type of requests are encoded by his/her team
-9.5 Understands Service Desk acts as a SPOC for all IT related matters
+► 9.1 Notices the difference between an incident and a request and acts accordingly
+► 9.2 Handles software installation requests correctly
+► 9.3 Understands the company its definition of consumables
+► 9.4 Understands which type of requests are encoded by his/her team
+► 9.5 Understands Service Desk acts as a SPOC for all IT related matters
 10. Understands his/her mission as an SD operator and acts accordingly
-10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
-10.2 Minds the SLA's at all time and acts accordingly
-10.3 Properly monitors the call queue and the mailbox
-10.4 Alerts his/her team leader in case of abnormalities which are negatively impacting the SLA's
-10.5 Minds his/her priorities at all time: calls, mails, backlog, improve
-10.6 Minds his/her KPI's at all time
+► 10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
+► 10.2 Minds the SLA's at all time and acts accordingly
+► 10.3 Properly monitors the call queue and the mailbox
+► 10.4 Alerts his/her team leader in case of abnormalities which are negatively impacting the SLA's
+► 10.5 Minds his/her priorities at all time: calls, mails, backlog, improve
+► 10.6 Minds his/her KPI's at all time
 11. Adequately gathers contextual information
-11.1 Gathers details about incident impact from the viewpoint of the end-user (for incident escalations)
-11.2 Gathers end-user availability information (for incident escalations)
+► 11.1 Gathers details about incident impact from the viewpoint of the end-user (for incident escalations)
+► 11.2 Gathers end-user availability information (for incident escalations)
 12. Adequately troubleshoots, diagnoses and formulates technical issues
-12.1 Adequately diagnoses incidents asking the right questions
-12.2 Adequately applies solutions as described in the knowledge base
-12.3 Applies the correct procedure to obtain help troubleshooting before escalating to another team
-12.4 Properly translates the call with an acceptable level of technical detail
+► 12.1 Adequately diagnoses incidents asking the right questions
+► 12.2 Adequately applies solutions as described in the knowledge base
+► 12.3 Applies the correct procedure to obtain help troubleshooting before escalating to another team
+► 12.4 Properly translates the call with an acceptable level of technical detail
 13. Swiftly and accurately encodes his/her actions
-13.1 Understands that every action needs to be traceable in the ticketing tool in real-time
-13.2 Ensures the other teams receive the maximum of information by encoding accordingly
+► 13.1 Understands that every action needs to be traceable in the ticketing tool in real-time
+► 13.2 Ensures the other teams receive the maximum of information by encoding accordingly
 14. Reads and answers his/her internal e-mails
-14.1 Reads his/her internal e-mails (to be aware about ongoing incidents and planned interventions)
-14.2 Answers his/her internal e-mails (so that information gets where it is needed)
+► 14.1 Reads his/her internal e-mails (to be aware about ongoing incidents and planned interventions)
+► 14.2 Answers his/her internal e-mails (so that information gets where it is needed)
 15. Communicates and collaborates within the team
-15.1 Informs his/her team about high impact incidents
-15.2 Respects the mail handling process
-15.3 Is doing efforts updating the knowledge base
+► 15.1 Informs his/her team about high impact incidents
+► 15.2 Respects the mail handling process
+► 15.3 Is doing efforts updating the knowledge base
 16. Understands the targeting methods used to deploy standardized applications
-16.1 Can describe all the targeting methods used to deploy standardized applications
-16.2 Understands all the targeting methods used to deploy standardized applications (conceptually)
+► 16.1 Can describe all the targeting methods used to deploy standardized applications
+► 16.2 Understands all the targeting methods used to deploy standardized applications (conceptually)
 17. Adequately troubleshoots the tools used to deploy standardized applications
-17.1 Adequately troubleshoots SCCM client issues
-17.2 Adequately troubleshoots RDP/Citrix connectivity issues
-17.3 Adequately handles failed workstation deployments
+► 17.1 Adequately troubleshoots SCCM client issues
+► 17.2 Adequately troubleshoots RDP/Citrix connectivity issues
+► 17.3 Adequately handles failed workstation deployments
 18. Understands the targeting methods used to install non-standardized applications
-18.1 Can describe all the targeting methods used to deploy non-standardized applications
-18.2 Understands all the targeting methods used to deploy non-standardized applications (conceptually)
+► 18.1 Can describe all the targeting methods used to deploy non-standardized applications
+► 18.2 Understands all the targeting methods used to deploy non-standardized applications (conceptually)
 19. Adequately troubleshoots the tools used to install non-standardized applications
-19.1 Adequately troubleshoots LAR account issues
-19.2 Adequately handles failed software installations (non-standardized applications)
+► 19.1 Adequately troubleshoots LAR account issues
+► 19.2 Adequately handles failed software installations (non-standardized applications)
 20. Adequately troubleshoots all types of remote access system issues
-20.1 Can describe the client checks required for RAS connectivity (standard workstation)
-20.2 Adequately troubleshoots RAS issues
-20.3 Adequately troubleshoots RAS 3rd-party issues
+► 20.1 Can describe the client checks required for RAS connectivity (standard workstation)
+► 20.2 Adequately troubleshoots RAS issues
+► 20.3 Adequately troubleshoots RAS 3rd-party issues

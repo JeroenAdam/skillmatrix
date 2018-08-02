@@ -57,9 +57,9 @@
 10. Understands his/her mission as an SD operator and acts accordingly
  ► 10.1 Handles effectively within his/her scope to keep the service interruption as short and painless as possible
  ► 10.2 Minds the SLA's at all time and acts accordingly
- ► 10.3 Properly monitors the call queue and the mailbox
+ ► 10.3 Properly monitors the call queue, ticket queue and the mailbox
  ► 10.4 Alerts his/her team leader in case of abnormalities which are negatively impacting the SLA's
- ► 10.5 Minds his/her priorities at all time: calls, mails, backlog, improve
+ ► 10.5 Minds his/her priorities at all time: calls, self-service tickets, backlog, improve
  ► 10.6 Minds his/her KPI's at all time
 11. Adequately gathers contextual information
  ► 11.1 Gathers details about incident impact from the viewpoint of the end-user (for incident escalations)
@@ -68,7 +68,7 @@
  ► 12.1 Adequately diagnoses incidents asking the right questions
  ► 12.2 Adequately applies solutions as described in the knowledge base
  ► 12.3 Applies the correct procedure to obtain help troubleshooting before escalating to another team
- ► 12.4 Properly translates the call with an acceptable level of technical detail
+ ► 12.4 Properly translates the incident with an acceptable level of technical detail
 13. Swiftly and accurately encodes his/her actions
  ► 13.1 Understands that every action needs to be traceable in the ticketing tool in real-time
  ► 13.2 Ensures the other teams receive the maximum of information by encoding accordingly

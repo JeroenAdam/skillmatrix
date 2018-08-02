@@ -7,7 +7,7 @@
 2. Proactively learns new technical skills when the opportunity arises
  ► 2.1 Learns proactively (acquiring new skills/knowledge on occasions other than when the immediate need is there)
  ► 2.2 Is doing efforts to become knowledgeable about the systems within the IT environment 
- ► 2.3 Aims at mastering business productivity software (MS Office, MS SharePoint)
+ ► 2.3 Aims at mastering business productivity software (MS Office, MS SharePoint, Skype)
  ► 2.4 Learns about identity (AD) and extending identity to the cloud (ADFS, AAD)
 3. Can describe the IT service offering
  ► 3.1 Understands all articles related to workplace
@@ -31,7 +31,7 @@
 6. Can locate technical documentation relevant to the most critical business applications
  ► 6.1 Can name the most critical business applications
  ► 6.2 Can locate technical documentation related to critical business applications
- ► 6.3 Can describe the common used 4-tier deployment architectures
+ ► 6.3 Can describe the commonly used 4-tier deployment architectures
 7. Can independently search for relevant information/procedures
  ► 7.1 Can describe how to consult the IT department document repository
  ► 7.2 Understands that information is to be actively gathered and in an accurate manner
@@ -42,9 +42,9 @@
  ► 8.3 Takes the correct action handling P1 & P2 escalations/reassignments/updates
  ► 8.4 Takes the correct action handling critical business application escalations/reassignments/updates (incl. categorization)
  ► 8.5 Applies the VIP process
- ► 8.6 Quickly detects VIP incidents in the mailbox/queue for immediate treatment
+ ► 8.6 Quickly detects urgent mails in the mailbox for immediate treatment
  ► 8.7 Applies the PC failure process
- ► 8.8 Takes the correct action when an end-user/manager informs about the status/urgency of an incident
+ ► 8.8 Takes the correct action when an end-user/manager informs about the status/urgency of a ticket
  ► 8.9 Encodes incidents correctly (incl. categorization)
  ► 8.10 Calls the end-user back to get the outcome of a reboot or test
  ► 8.11 Applies the user unreachable process
